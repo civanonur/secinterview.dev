@@ -116,7 +116,7 @@ Bug reports and feature requests are welcome via the [Issues](../../issues) tab.
 
 ## About
 
-Built by [Onur Civan](https://linkedin.com/in/YOUR_LINKEDIN) as a solo technical project.
+Built by [Onur Civan](https://www.linkedin.com/in/onur-ugur-civan/) as a solo technical project.
 
 For partnership, investment, or enterprise inquiries, reach out via LinkedIn or open a Discussion in this repository.
 
