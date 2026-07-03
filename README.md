@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://secinterview.dev/"><img src="https://img.shields.io/badge/Live-Private%20Beta-blue?style=for-the-badge" alt="Live Beta"></a>
+  <a href="https://app.secinterview.dev/"><img src="https://img.shields.io/badge/Live-Private%20Beta-blue?style=for-the-badge" alt="Live Beta"></a>
   <img src="https://img.shields.io/badge/Status-Commercial%20/%20Closed%20Source-red?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Built%20With-AI%20%26%20LLMs-orange?style=for-the-badge" alt="Built With">
 </p>
