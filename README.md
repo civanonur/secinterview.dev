@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Replace with your actual logo path -->
-  <img src="assets/logo.png" alt="SecInterview Logo" width="180"/>
+  <img src="assets/logo-2.png" alt="SecInterview Logo" width="180"/>
 </p>
 
 <p align="center">
